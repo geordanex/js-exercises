@@ -1,0 +1,13 @@
+{
+    "name": "js-exercises",
+    "version": "1.0.0",
+    "description": "Project for JavaScript exercises and tests",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --collectCoverage=false  --verbose"
+    },
+    "devDependencies": {
+      "jest": "^27.4.5"
+    }
+  }
+  
