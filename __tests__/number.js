@@ -1,4 +1,24 @@
-const isCero = require("../exercises/basics.js");
+const {
+  isCero,
+  isPositiveNumber,
+  isNegativeNumber,
+  isEven,
+  isOdd,
+  remainderOf,
+  esMultiploDe,
+  power,
+  isPowerOf,
+  isPowerofTwo,
+  isPerfectSquare,
+  factors,
+  isPrime,
+  primeFactors,
+  sumOfRange,
+  factorial,
+  celsiusToFahrenheit,
+  fahrenheitToCelsius,
+  fibonacci,
+} = require("../exercises/number.js");
 
 describe("isCero", () => {
   test("debería retornar verdadero para el número 0", () => {
