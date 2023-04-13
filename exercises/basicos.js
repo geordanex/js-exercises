@@ -43,10 +43,35 @@ function convertir(num) {
   // Aqui tu codigo
 }
 
+/**
+ * Crea una función que tome un arreglo que contenga solamente números y devuelva el primer elemento.
+ * Ejemplos:
+ *
+ * getFirstValue([1, 2, 3]) ➞ 1
+ * getFirstValue([80, 5, 100]) ➞ 80
+ * getFirstValue([-500, 0, 50]) ➞ -500
+ */
+function getFirstValue(array) {
+  // Aqui tu codigo
+}
+
+/**
+ *Crea una función que tome un número como argumento. Suma todos los números desde 1 hasta el número que pasaste a la función. Por ejemplo, si el número de entrada es 4, entonces tu función debería devolver 10, porque 1 + 2 + 3 + 4 = 10.
+ *Ejemplos:
+ *addUp(4) ➞ 10
+ *addUp(13) ➞ 91
+ *addUp(600) ➞ 180300
+ */
+function addUp(num) {
+  // Aqui tu codigo
+}
+
 module.exports = {
   updateNum,
   assignValue,
   missingVariable,
   addMissingCondition,
   convertir,
+  getFirstValue,
+  addUp,
 };
