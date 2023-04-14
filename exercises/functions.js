@@ -18,10 +18,10 @@
  *Este ejercicio está diseñado como una introducción a las funciones de orden superior (funciones que utilizan otras funciones para hacer su trabajo).
  */
 function whichIsLarger(f, g) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
-/*
+/**
 Crea una función que tome un "número base" como argumento. 
 Esta función debe devolver otra función que tome un nuevo argumento y devuelva la suma del "número base" y el nuevo argumento.
 
@@ -52,10 +52,10 @@ console.log(plusFive(plusTen(0))); // Output: 15
 // Todos los inputs serán números válidos.
 */
 function makePlusFunction(baseNum) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 module.exports = {
-  whichIsLarger,
-  makePlusFunction,
+   whichIsLarger,
+   makePlusFunction,
 };

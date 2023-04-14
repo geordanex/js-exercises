@@ -6,7 +6,7 @@
  *    @returns {number} El elemento más grande en la array
  */
 function largest(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -18,7 +18,7 @@ function largest(array) {
  * @returns {number} El elemento más pequeño del array.
  */
 function smallest(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -30,7 +30,7 @@ function smallest(array) {
  * @returns {number} La cadena de texto más larga en la array
  */
 function longest(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -42,7 +42,7 @@ function longest(array) {
  * @returns {number} La cadena más larga en el arreglo
  */
 function shortest(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -56,7 +56,7 @@ function shortest(array) {
  * @returns {number} La suma de los números en el arreglo
  */
 function sum(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -80,7 +80,7 @@ function sum(array) {
  * @returns {number} La media de los números en el array
  */
 function mean(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -104,7 +104,7 @@ function mean(array) {
  * @returns {number} La mediana de los números en el arreglo
  */
 function median(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -118,7 +118,7 @@ function median(array) {
  * @returns {number} El producto de los números en el array
  */
 function product(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -140,7 +140,7 @@ function product(array) {
  * @returns {boolean} Verdadero si la array contiene el valor, falso en caso contrario.
  */
 function includes(pajar, aguja) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -161,7 +161,7 @@ function includes(pajar, aguja) {
  *  o -1 si no se encuentra.
  */
 function firstIndexOf(arreglo, valor) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -182,7 +182,7 @@ function firstIndexOf(arreglo, valor) {
  * array, o -1 si no se encuentra.
  */
 function lastIndexOf(array, valor) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -199,7 +199,7 @@ function lastIndexOf(array, valor) {
  * @returns {number} La cantidad de números pares en el array
  */
 function countEvens(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -216,7 +216,7 @@ function countEvens(array) {
  * @returns {number} La cantidad de enteros impares en el arreglo
  */
 function countOdds(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -238,7 +238,7 @@ function countOdds(array) {
  *    @returns {number} La cantidad de elementos en el array mayores que el umbral
  */
 function countGreaterThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -258,7 +258,7 @@ function countGreaterThan(array, threshold) {
  *    @returns {number} La cantidad de elementos en el array menor que el umbral
  */
 function countLessThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -278,7 +278,7 @@ function countLessThan(array, threshold) {
  * @returns {number} El número de veces que aparece el valor en el array
  */
 function countValue(array, value) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -297,7 +297,7 @@ function countValue(array, value) {
  * @returns {number[]} Un nuevo array que consta de todos los números pares en el array de entrada
  */
 function selectEvens(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -316,7 +316,7 @@ function selectEvens(array) {
  * @returns {number[]} Un nuevo arreglo que consiste solamente de los números impares del arreglo de entrada
  */
 function selectOdds(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -338,7 +338,7 @@ function selectOdds(array) {
  *  que son estrictamente mayores que el umbral
  */
 function selectGreaterThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -360,7 +360,7 @@ function selectGreaterThan(array, threshold) {
  *  estrictamente menores que el umbral
  */
 function selectLessThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -383,7 +383,7 @@ function selectLessThan(array, threshold) {
  *  con longitud estrictamente mayor que el umbral dado
  */
 function selectLongerThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -407,7 +407,7 @@ function selectLongerThan(array, threshold) {
  *  estrictamente menor que el umbral dado
  */
 function selectShorterThan(array, threshold) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -424,7 +424,7 @@ function selectShorterThan(array, threshold) {
  *   y falso en caso contrario.
  */
 function allPositive(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -441,7 +441,7 @@ function allPositive(array) {
  * @returns {boolean} Verdadero si algún número en la matriz de entrada es positivo y falso en caso contrario.
  */
 function anyPositive(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -467,7 +467,7 @@ function anyPositive(array) {
  * @returns {object[]} La concatenación de los dos arreglos dados.
  */
 function concat(leftArray, rightArray) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -484,7 +484,7 @@ function concat(leftArray, rightArray) {
  * matriz de entrada.
  */
 function removeEmpty(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -503,7 +503,7 @@ function removeEmpty(array) {
  *   elemento dado eliminadas.
  */
 function removeElement(array, element) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -523,36 +523,36 @@ function removeElement(array, element) {
  *   de entrada mayores que la media.
  */
 function selectAboveMean(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 module.exports = {
-  largest,
-  smallest,
-  longest,
-  shortest,
-  sum,
-  mean,
-  median,
-  product,
-  includes,
-  firstIndexOf,
-  lastIndexOf,
-  countEvens,
-  countOdds,
-  countGreaterThan,
-  countLessThan,
-  countValue,
-  selectEvens,
-  selectOdds,
-  selectGreaterThan,
-  selectLessThan,
-  selectLongerThan,
-  selectShorterThan,
-  allPositive,
-  anyPositive,
-  concat,
-  removeEmpty,
-  removeElement,
-  selectAboveMean,
+   largest,
+   smallest,
+   longest,
+   shortest,
+   sum,
+   mean,
+   median,
+   product,
+   includes,
+   firstIndexOf,
+   lastIndexOf,
+   countEvens,
+   countOdds,
+   countGreaterThan,
+   countLessThan,
+   countValue,
+   selectEvens,
+   selectOdds,
+   selectGreaterThan,
+   selectLessThan,
+   selectLongerThan,
+   selectShorterThan,
+   allPositive,
+   anyPositive,
+   concat,
+   removeEmpty,
+   removeElement,
+   selectAboveMean,
 };

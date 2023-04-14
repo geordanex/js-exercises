@@ -2,17 +2,17 @@
   Devuelve verdadero si el número dado es 0 y falso en caso contrario.
 */
 function isCero(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 // Devuelve true si el número dado es positivo (mayor que 0) y falso en caso contrario.
 function isPositiveNumber(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 // Devuelve verdadero si el número dado es negativo (menor que 0) y falso en caso contrario.
 function isNegativeNumber(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -28,7 +28,7 @@ function isNegativeNumber(num) {
  * Impares: -11, -13, -103, -1, 1, 17, 19, 3
  */
 function isEven(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -40,7 +40,7 @@ function isEven(num) {
  * Impar: -11, -13, -103, -1, 1, 17, 19, 3
  */
 function isOdd(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -59,7 +59,7 @@ function isOdd(num) {
  */
 
 function remainderOf(num, d) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -74,7 +74,7 @@ function remainderOf(num, d) {
  *
  */
 function esMultiploDe(n, d) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -87,7 +87,7 @@ function esMultiploDe(n, d) {
  *    power(5, 6) // => 15625 (es decir, 5 * 5 * 5 * 5 * 5 * 6)
  */
 function power(base, exp) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -105,7 +105,7 @@ function power(base, exp) {
  *    isPowerOf(10, 2) // => false
  */
 function isPowerOf(num, base) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -128,7 +128,7 @@ function isPowerOf(num, base) {
  *    isPowerOfTwo(2**20 + 1) // => false
  */
 function isPowerofTwo(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -148,7 +148,7 @@ function isPowerofTwo(num) {
  *    isPerfectSquare(9); // => true (ya que 3*3 es 9)
  */
 function isPerfectSquare(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -162,7 +162,7 @@ function isPerfectSquare(num) {
  *    factors(12); // => [1, 2, 3, 4, 6, 12]
  */
 function factors(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -183,7 +183,7 @@ function factors(num) {
  *    isPrime(15); // => false
  */
 function isPrime(n) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -200,7 +200,7 @@ function isPrime(n) {
  *    primeFactors(917329); // => [7, 7, 97, 193]
  */
 function primeFactors(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -213,7 +213,7 @@ function primeFactors(num) {
  *    sumOfRange(-3, 4) // => 4 (es decir, -3 + -2 + -1 + 0 + 1 + 2 + 3 + 4)
  */
 function sumOfRange(n1, n2) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -238,7 +238,7 @@ function sumOfRange(n1, n2) {
  *    factorial(10); // => 3628800
  */
 function factorial(num) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -248,7 +248,7 @@ function factorial(num) {
  * @returns {number} La temperatura en grados Fahrenheit
  */
 function celsiusToFahrenheit(temp) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -258,7 +258,7 @@ function celsiusToFahrenheit(temp) {
  * @returns {number} La temperatura en grados Celsius
  */
 function fahrenheitToCelsius(temp) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 /**
@@ -283,27 +283,27 @@ function fahrenheitToCelsius(temp) {
  *  @returns {number} El n-ésimo número de Fibonacci
  */
 function fibonacci(n) {
-  // Aqui va tu codigo
+   // Aqui va tu codigo
 }
 
 module.exports = {
-  isCero,
-  isPositiveNumber,
-  isNegativeNumber,
-  isEven,
-  isOdd,
-  remainderOf,
-  esMultiploDe,
-  power,
-  isPowerOf,
-  isPowerofTwo,
-  isPerfectSquare,
-  factors,
-  isPrime,
-  primeFactors,
-  sumOfRange,
-  factorial,
-  celsiusToFahrenheit,
-  fahrenheitToCelsius,
-  fibonacci,
+   isCero,
+   isPositiveNumber,
+   isNegativeNumber,
+   isEven,
+   isOdd,
+   remainderOf,
+   esMultiploDe,
+   power,
+   isPowerOf,
+   isPowerofTwo,
+   isPerfectSquare,
+   factors,
+   isPrime,
+   primeFactors,
+   sumOfRange,
+   factorial,
+   celsiusToFahrenheit,
+   fahrenheitToCelsius,
+   fibonacci,
 };

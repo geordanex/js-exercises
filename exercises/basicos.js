@@ -1,12 +1,12 @@
 // Te piden que devuelva la funcion updateNum a 2, actualmente devuelve 1
 function updateNum() {
-  let num = 1;
-  return num;
+   let num = 1;
+   return num;
 }
 
 // Te piden que asignes un valor a la variable num y retorne 5
 function assignValue() {
-  let num;
+   let num;
 }
 
 /**
@@ -15,7 +15,7 @@ function assignValue() {
  * Declara una variable llamada numOne, asignale el valor 3 y devuelve numTwo.
  */
 function missingVariable() {
-  let numTwo = numOne;
+   let numTwo = numOne;
 }
 
 /**
@@ -25,10 +25,10 @@ function missingVariable() {
  * debe devolver el `text`
  */
 function addMissingCondition() {
-  // let text = 'hello';
-  // if () {
-  //    text = text + ' world';
-  // }
+   // let text = 'hello';
+   // if () {
+   //    text = text + ' world';
+   // }
 }
 
 /**
@@ -40,7 +40,7 @@ function addMissingCondition() {
  * convertir(2) ➞ 120
  */
 function convertir(num) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -52,7 +52,7 @@ function convertir(num) {
  * getFirstValue([-500, 0, 50]) ➞ -500
  */
 function getFirstValue(array) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -63,15 +63,15 @@ function getFirstValue(array) {
  *addUp(600) ➞ 180300
  */
 function addUp(num) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 module.exports = {
-  updateNum,
-  assignValue,
-  missingVariable,
-  addMissingCondition,
-  convertir,
-  getFirstValue,
-  addUp,
+   updateNum,
+   assignValue,
+   missingVariable,
+   addMissingCondition,
+   convertir,
+   getFirstValue,
+   addUp,
 };

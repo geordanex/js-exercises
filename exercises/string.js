@@ -21,7 +21,7 @@
  * @returns {number} El número de veces que aparece la letra objetivo en la cadena de entrada
  */
 function countLetter(string, letter) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -35,7 +35,7 @@ function countLetter(string, letter) {
  * @returns {string} Una copia de la cadena capitalizada
  */
 function capitalize(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -47,7 +47,7 @@ function capitalize(string) {
  * @returns {string} La palabra más larga en la cadena de entrada
  */
 function longestWord(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -59,7 +59,7 @@ function longestWord(string) {
  * @returns {string} La palabra más corta en la cadena de entrada
  */
 function shortestWord(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -74,7 +74,7 @@ function shortestWord(string) {
  * @returns {string} Una copia de la cadena de entrada con el objetivo reemplazado por replaceWith
  */
 function replaceCharacter(string, target, replaceWith) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -90,7 +90,7 @@ function replaceCharacter(string, target, replaceWith) {
  *   reemplazadas según el diccionario de reemplazo.
  */
 function replaceCharacters(string, replacementDict) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -110,7 +110,7 @@ function replaceCharacters(string, replacementDict) {
  * @returns {string} Una copia en minúsculas de la cadena de entrada
  */
 function toLowerCase(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -130,7 +130,7 @@ function toLowerCase(string) {
  * @returns {string} Una copia en mayúsculas de la cadena de entrada
  */
 function toUpperCase(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -148,7 +148,7 @@ function toUpperCase(string) {
  * @returns {string} A snake-case copy of the input string
  */
 function toSnakeCase(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -167,7 +167,7 @@ function toSnakeCase(string) {
  * @returns {string} Una copia en formato de título de la cadena de entrada
  */
 function toTitleCase(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -200,19 +200,19 @@ function toTitleCase(string) {
  * @returns {string} Una copia ROT13 de la cadena de entrada
  */
 function rot13(string) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 module.exports = {
-  countLetter,
-  capitalize,
-  longestWord,
-  shortestWord,
-  replaceCharacter,
-  replaceCharacters,
-  toLowerCase,
-  toUpperCase,
-  toSnakeCase,
-  toTitleCase,
-  rot13,
+   countLetter,
+   capitalize,
+   longestWord,
+   shortestWord,
+   replaceCharacter,
+   replaceCharacters,
+   toLowerCase,
+   toUpperCase,
+   toSnakeCase,
+   toTitleCase,
+   rot13,
 };

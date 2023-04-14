@@ -16,7 +16,7 @@
  * @return {number} El número de días en el mes dado
  */
 function daysInMonthByNumber(monthNum) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 /**
@@ -35,7 +35,7 @@ function daysInMonthByNumber(monthNum) {
  * @return {string} La calificación de letra correspondiente para la calificación de porcentaje dada.
  */
 function letterGrade(percentGrade) {
-  // Código de la función
+   // Código de la función
 }
 
 /**
@@ -64,11 +64,11 @@ function letterGrade(percentGrade) {
  *    el primer jugador ganó, perdió o empató el partido.
  */
 function rockPaperScissorsWinner(firstPlayerMove, secondPlayerMove) {
-  // Aqui tu codigo
+   // Aqui tu codigo
 }
 
 module.exports = {
-  daysInMonthByNumber,
-  letterGrade,
-  rockPaperScissorsWinner,
+   daysInMonthByNumber,
+   letterGrade,
+   rockPaperScissorsWinner,
 };
